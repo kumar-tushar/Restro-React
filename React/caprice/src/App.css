@@ -1,0 +1,65 @@
+.row-header{
+    margin:0 auto;
+    padding:0;
+}
+
+
+.row-content {
+    margin:0 auto;
+    padding: 50px 0 50px 0;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+
+.footer{
+    background-color: #d5bac6;
+    margin-top:50px;
+    padding: 40px 0 40px 0;
+}
+
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin-bottom:10px;
+    background: #9e5e7a;
+    color:floralwhite;
+}
+
+
+address{
+    font-size:90%;
+    margin:0;
+    color:#0f0f0f;
+}
+
+
+.navbar-dark {
+    background-color: #823054;
+}
+
+
+.page-enter {
+    opacity: 0.01;
+    transform: translateX(-100%);
+}
+
+
+.page-enter-active {
+    opacity: 1;
+    transform: translateX(0%);
+    transition: all 300ms ease-in;
+}
+
+
+.page-exit {
+    opacity: 1;
+    transform: translateX(0%);
+}
+
+
+.page-exit-active {
+    opacity: 0.01;
+    transform: translateX(100%);
+    transition: all 300ms ease-out;
+}
