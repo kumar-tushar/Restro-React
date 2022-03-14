@@ -28,9 +28,10 @@ function Footer() {
                             caprice@food.net</a>
                         </address>
                     </div>
-                    <div className="col-12 col-sm-4 align-self-center">
+                    
+                      <div className="col-12 col-sm-4 align-self-center" style={{marginTop: "6px"}} >
                         <div className="text-center">
-                            <a className="btn btn-social-icon btn-google" style={{margin: "2px"}} href="http://google.com/+"><i className="fa fa-google-plus"/></a>
+                            <a className="btn btn-social-icon btn-google" style={{margin: "2px"}}  href="http://google.com/+"><i className="fa fa-google-plus"/></a>
                             <a className="btn btn-social-icon btn-facebook" style={{margin: "2px"}} href="http://www.facebook.com/profile.php?id="><i className="fa fa-facebook"/></a>
                             <a className="btn btn-social-icon btn-linkedin" style={{margin: "2px"}} href="http://www.linkedin.com/in/"><i className="fa fa-linkedin"/></a>
                             <a className="btn btn-social-icon btn-twitter" style={{margin: "2px"}} href="http://twitter.com/"><i className="fa fa-twitter"/></a>
