@@ -30,12 +30,12 @@ function Footer() {
                     </div>
                     <div className="col-12 col-sm-4 align-self-center">
                         <div className="text-center">
-                            <a className="btn btn-social-icon btn-google" href="http://google.com/+"><i className="fa fa-google-plus"/></a>
-                            <a className="btn btn-social-icon btn-facebook" href="http://www.facebook.com/profile.php?id="><i className="fa fa-facebook"/></a>
-                            <a className="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/in/"><i className="fa fa-linkedin"/></a>
-                            <a className="btn btn-social-icon btn-twitter" href="http://twitter.com/"><i className="fa fa-twitter"/></a>
-                            <a className="btn btn-social-icon btn-google" href="http://youtube.com/"><i className="fa fa-youtube"/></a>
-                            <a className="btn btn-social-icon" href="mailto:"><i className="fa fa-envelope-o"/></a>
+                            <a className="btn btn-social-icon btn-google" style={{margin: "2px"}} href="http://google.com/+"><i className="fa fa-google-plus"/></a>
+                            <a className="btn btn-social-icon btn-facebook" style={{margin: "2px"}} href="http://www.facebook.com/profile.php?id="><i className="fa fa-facebook"/></a>
+                            <a className="btn btn-social-icon btn-linkedin" style={{margin: "2px"}} href="http://www.linkedin.com/in/"><i className="fa fa-linkedin"/></a>
+                            <a className="btn btn-social-icon btn-twitter" style={{margin: "2px"}} href="http://twitter.com/"><i className="fa fa-twitter"/></a>
+                            <a className="btn btn-social-icon btn-google" style={{margin: "2px"}} href="http://youtube.com/"><i className="fa fa-youtube"/></a>
+                            <a className="btn btn-social-icon" style={{margin: "2px"}} href="mailto:"><i className="fa fa-envelope-o"/></a>
                         </div>
                     </div>
                 </div>
