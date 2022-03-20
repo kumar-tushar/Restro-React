@@ -1,4 +1,4 @@
-# Restaurant Website using React
+# Restaurant Website developed using React
 
 
 # Quick Start
