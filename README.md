@@ -1,7 +1,7 @@
-## Restaurant Website developed using React
 
 
-### Quick Start
+
+#### Quick Start
 ``` bash
 
 cd react/caprice
